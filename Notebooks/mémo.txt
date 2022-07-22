@@ -1,0 +1,3 @@
+🌕 Comment le fractionnement des trains / tests et la validation croisée des
+données de séries chronologiques doivent être effectués
+🌕 Une brève description des modèles de séries temporelles ARIMA
